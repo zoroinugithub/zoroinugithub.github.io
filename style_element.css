@@ -1,21 +1,3 @@
-@font-face {
-	font-family: "file";
-	font-weight: 400;
-	src: url("file.woff2) format("woff2")
-}
-
-@font-face {
-	font-family: "poppins-extralight";
-	font-weight: 400;
-	src: url("poppins-extralight.ttf") format("ttf")
-}
-@font-face {
-	font-family: "poppins-semibold";
-	font-weight: 400;
-	src: url("poppins-semibold.ttf") format("ttf")
-}
-
-
 @media (min-width: 768px) {
   #SECTION_POPUP {
     height: 0px;
@@ -523,7 +505,7 @@
     left: 197px;
   }
   #HEADLINE40 > .headline {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(255, 255, 255);
     font-size: 18px;
     text-align: center;
@@ -535,7 +517,7 @@
     left: 0px;
   }
   #HEADLINE41 > .headline {
-    font-family: "file";
+    font-family: "file.woff2";
     color: rgb(255, 255, 255);
     font-size: 132px;
     line-height: 1.6;
@@ -546,7 +528,7 @@
     left: 139px;
   }
   #HEADLINE42 > .headline {
-    font-family: "file";
+    font-family: "file.woff2";
     color: rgb(16, 145, 33);
     font-size: 124px;
     line-height: 1.6;
@@ -885,7 +867,7 @@
     left: 0px;
   }
   #HEADLINE73 > .headline {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(255, 255, 255);
     font-size: 14px;
     text-align: left;
@@ -914,7 +896,7 @@
     left: 0px;
   }
   #HEADLINE77 > .headline {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(255, 255, 255);
     font-size: 14px;
     text-align: left;
@@ -943,7 +925,7 @@
     left: 0px;
   }
   #HEADLINE80 > .headline {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(255, 255, 255);
     font-size: 14px;
     text-align: left;
@@ -972,7 +954,7 @@
     left: 0px;
   }
   #HEADLINE83 > .headline {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(255, 255, 255);
     font-size: 14px;
     text-align: left;
@@ -1019,7 +1001,7 @@
   #HEADLINE89 > .headline {
     transform: rotate(-10deg);
     -webkit-transform: rotate(-10deg);
-    font-family: "file";
+    font-family: "file.woff2";
     background: rgba(188, 238, 102, 1);
     background: -webkit-linear-gradient(
       90deg,
@@ -1048,7 +1030,7 @@
   #HEADLINE91 > .headline {
     transform: rotate(-10deg);
     -webkit-transform: rotate(-10deg);
-    font-family: "file";
+    font-family: "file.woff2";
     background: rgba(188, 238, 102, 1);
     background: -webkit-linear-gradient(
       90deg,
@@ -1077,7 +1059,7 @@
   #HEADLINE92 > .headline {
     transform: rotate(-10deg);
     -webkit-transform: rotate(-10deg);
-    font-family: "file";
+    font-family: "file.woff2";
     background: rgba(188, 238, 102, 1);
     background: -webkit-linear-gradient(
       90deg,
@@ -1106,7 +1088,7 @@
   #HEADLINE93 > .headline {
     transform: rotate(-10deg);
     -webkit-transform: rotate(-10deg);
-    font-family: "file";
+    font-family: "file.woff2";
     color: rgb(255, 255, 255);
     font-size: 56px;
     text-align: center;
@@ -1126,7 +1108,7 @@
   #HEADLINE95 > .headline {
     transform: rotate(-20deg);
     -webkit-transform: rotate(-20deg);
-    font-family: "file";
+    font-family: "file.woff2";
     background: rgba(188, 238, 102, 1);
     background: -webkit-linear-gradient(
       180deg,
@@ -1153,7 +1135,7 @@
     left: 52px;
   }
   #HEADLINE96 > .headline {
-    font-family: "file";
+    font-family: "file.woff2";
     color: rgb(255, 255, 255);
     font-size: 28px;
     text-align: left;
@@ -1167,7 +1149,7 @@
   #HEADLINE97 > .headline {
     transform: rotate(-20deg);
     -webkit-transform: rotate(-20deg);
-    font-family: "file";
+    font-family: "file.woff2";
     background: rgba(188, 238, 102, 1);
     background: -webkit-linear-gradient(
       180deg,
@@ -1194,7 +1176,7 @@
     left: 52px;
   }
   #HEADLINE98 > .headline {
-    font-family: "file";
+    font-family: "file.woff2";
     color: rgb(255, 255, 255);
     font-size: 28px;
     text-align: left;
@@ -1220,7 +1202,7 @@
   #HEADLINE103 > .headline {
     transform: rotate(-20deg);
     -webkit-transform: rotate(-20deg);
-    font-family: "file";
+    font-family: "file.woff2";
     background: rgba(188, 238, 102, 1);
     background: -webkit-linear-gradient(
       180deg,
@@ -1247,7 +1229,7 @@
     left: 52px;
   }
   #HEADLINE104 > .headline {
-    font-family: "file";
+    font-family: "file.woff2";
     color: rgb(255, 255, 255);
     font-size: 28px;
     text-align: left;
@@ -1267,7 +1249,7 @@
   #HEADLINE106 > .headline {
     transform: rotate(-20deg);
     -webkit-transform: rotate(-20deg);
-    font-family: "file";
+    font-family: "file.woff2";
     background: rgba(188, 238, 102, 1);
     background: -webkit-linear-gradient(
       180deg,
@@ -1294,7 +1276,7 @@
     left: 52px;
   }
   #HEADLINE107 > .headline {
-    font-family: "file";
+    font-family: "file.woff2";
     color: rgb(255, 255, 255);
     font-size: 28px;
     text-align: left;
@@ -1575,7 +1557,7 @@
     left: 0px;
   }
   #HEADLINE139 > .headline {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(255, 255, 255);
     font-size: 15px;
     text-align: left;
@@ -1604,7 +1586,7 @@
     left: 0px;
   }
   #HEADLINE143 > .headline {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(255, 255, 255);
     font-size: 15px;
     text-align: left;
@@ -1658,7 +1640,7 @@
     left: 0px;
   }
   #HEADLINE150 > .headline {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(255, 255, 255);
     font-size: 15px;
     text-align: left;
@@ -1706,7 +1688,7 @@
     left: 0px;
   }
   #HEADLINE155 > .headline {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(255, 255, 255);
     font-size: 15px;
     text-align: left;
@@ -1754,7 +1736,7 @@
     left: 0px;
   }
   #HEADLINE160 > .headline {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(255, 255, 255);
     font-size: 15px;
     text-align: left;
@@ -1802,7 +1784,7 @@
     left: 0px;
   }
   #HEADLINE165 > .headline {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(255, 255, 255);
     font-size: 15px;
     text-align: left;
@@ -1850,7 +1832,7 @@
     left: 0px;
   }
   #HEADLINE170 > .headline {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(255, 255, 255);
     font-size: 15px;
     text-align: left;
@@ -1898,7 +1880,7 @@
     left: 0px;
   }
   #HEADLINE175 > .headline {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(255, 255, 255);
     font-size: 15px;
     text-align: left;
@@ -1946,7 +1928,7 @@
     left: 0px;
   }
   #HEADLINE180 > .headline {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(255, 255, 255);
     font-size: 15px;
     text-align: left;
@@ -2028,7 +2010,7 @@
     left: 0px;
   }
   #HEADLINE187 > .headline {
-    font-family: "poppins-semibold"
+    font-family: "Poppins-SemiBold.ttf";
     color: rgb(188, 238, 102);
     font-size: 25px;
     text-align: center;
@@ -2040,7 +2022,7 @@
     left: 0px;
   }
   #HEADLINE188 > .headline {
-    font-family: "poppins-semibold"
+    font-family: "Poppins-SemiBold.ttf";
     color: rgb(255, 255, 255);
     font-size: 25px;
     text-align: center;
@@ -2052,7 +2034,7 @@
     left: 0px;
   }
   #HEADLINE189 > .headline {
-    font-family: "poppins-semibold"
+    font-family: "Poppins-SemiBold.ttf";
     color: rgb(255, 255, 255);
     font-size: 25px;
     text-align: center;
@@ -2064,7 +2046,7 @@
     left: 0px;
   }
   #HEADLINE190 > .headline {
-    font-family: "poppins-semibold"
+    font-family: "Poppins-SemiBold.ttf";
     color: rgb(255, 255, 255);
     font-size: 25px;
     text-align: center;
@@ -2116,7 +2098,7 @@
     left: 0px;
   }
   #HEADLINE195 > .headline {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(188, 238, 102);
     font-size: 18px;
     text-align: center;
@@ -2128,7 +2110,7 @@
     left: 0px;
   }
   #HEADLINE196 > .headline {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(255, 255, 255);
     font-size: 18px;
     text-align: center;
@@ -2140,7 +2122,7 @@
     left: 0px;
   }
   #HEADLINE197 > .headline {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(255, 255, 255);
     font-size: 18px;
     text-align: center;
@@ -2152,7 +2134,7 @@
     left: 0px;
   }
   #HEADLINE198 > .headline {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(255, 255, 255);
     font-size: 18px;
     text-align: center;
@@ -2462,7 +2444,7 @@
     left: 0px;
   }
   #PARAGRAPH259 > .paragraph {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(255, 255, 255);
     font-size: 13px;
     line-height: 1.6;
@@ -2486,7 +2468,7 @@
     left: 680px;
   }
   #PARAGRAPH262 > .paragraph {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(188, 238, 102);
     font-size: 15px;
     line-height: 1.6;
@@ -2497,7 +2479,7 @@
     left: 680px;
   }
   #PARAGRAPH263 > .paragraph {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(255, 255, 255);
     font-size: 15px;
     line-height: 1.6;
@@ -2667,7 +2649,7 @@
   #HEADLINE281 > .headline {
     transform: rotate(-10deg);
     -webkit-transform: rotate(-10deg);
-    font-family: "file";
+    font-family: "file.woff2";
     background: rgba(188, 238, 102, 1);
     background: -webkit-linear-gradient(
       90deg,
@@ -2696,7 +2678,7 @@
   #HEADLINE284 > .headline {
     transform: rotate(-10deg);
     -webkit-transform: rotate(-10deg);
-    font-family: "file";
+    font-family: "file.woff2";
     color: rgb(255, 255, 255);
     font-size: 120px;
     text-align: center;
@@ -2740,7 +2722,7 @@
     left: 197px;
   }
   #HEADLINE288 > .headline {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(255, 255, 255);
     font-size: 18px;
     text-align: center;
@@ -3560,7 +3542,7 @@
     left: 10px;
   }
   #HEADLINE40 > .headline {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(255, 255, 255);
     font-size: 20px;
     text-align: center;
@@ -3572,7 +3554,7 @@
     left: 0px;
   }
   #HEADLINE41 > .headline {
-    font-family: "file";
+    font-family: "file.woff2";
     color: rgb(255, 255, 255);
     font-size: 132px;
     line-height: 1.6;
@@ -3583,7 +3565,7 @@
     left: 124px;
   }
   #HEADLINE42 > .headline {
-    font-family: "file";
+    font-family: "file.woff2";
     color: rgb(16, 145, 33);
     font-size: 124px;
     line-height: 1.6;
@@ -3922,7 +3904,7 @@
     left: 0px;
   }
   #HEADLINE73 > .headline {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(255, 255, 255);
     font-size: 14px;
     text-align: left;
@@ -3951,7 +3933,7 @@
     left: 0px;
   }
   #HEADLINE77 > .headline {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(255, 255, 255);
     font-size: 14px;
     text-align: left;
@@ -3980,7 +3962,7 @@
     left: 0px;
   }
   #HEADLINE80 > .headline {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(255, 255, 255);
     font-size: 14px;
     text-align: left;
@@ -4009,7 +3991,7 @@
     left: 0px;
   }
   #HEADLINE83 > .headline {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(255, 255, 255);
     font-size: 14px;
     text-align: left;
@@ -4056,7 +4038,7 @@
   #HEADLINE89 > .headline {
     transform: rotate(-10deg);
     -webkit-transform: rotate(-10deg);
-    font-family: "file";
+    font-family: "file.woff2";
     background: rgba(188, 238, 102, 1);
     background: -webkit-linear-gradient(
       90deg,
@@ -4085,7 +4067,7 @@
   #HEADLINE91 > .headline {
     transform: rotate(-10deg);
     -webkit-transform: rotate(-10deg);
-    font-family: "file";
+    font-family: "file.woff2";
     background: rgba(188, 238, 102, 1);
     background: -webkit-linear-gradient(
       90deg,
@@ -4114,7 +4096,7 @@
   #HEADLINE92 > .headline {
     transform: rotate(-10deg);
     -webkit-transform: rotate(-10deg);
-    font-family: "file";
+    font-family: "file.woff2";
     background: rgba(188, 238, 102, 1);
     background: -webkit-linear-gradient(
       90deg,
@@ -4143,7 +4125,7 @@
   #HEADLINE93 > .headline {
     transform: rotate(-10deg);
     -webkit-transform: rotate(-10deg);
-    font-family: "file";
+    font-family: "file.woff2";
     color: rgb(255, 255, 255);
     font-size: 56px;
     text-align: center;
@@ -4163,7 +4145,7 @@
   #HEADLINE95 > .headline {
     transform: rotate(-20deg);
     -webkit-transform: rotate(-20deg);
-    font-family: "file";
+    font-family: "file.woff2";
     background: rgba(188, 238, 102, 1);
     background: -webkit-linear-gradient(
       180deg,
@@ -4190,7 +4172,7 @@
     left: 52px;
   }
   #HEADLINE96 > .headline {
-    font-family: "file";
+    font-family: "file.woff2";
     color: rgb(255, 255, 255);
     font-size: 28px;
     text-align: left;
@@ -4204,7 +4186,7 @@
   #HEADLINE97 > .headline {
     transform: rotate(-20deg);
     -webkit-transform: rotate(-20deg);
-    font-family: "file";
+    font-family: "file.woff2";
     background: rgba(188, 238, 102, 1);
     background: -webkit-linear-gradient(
       180deg,
@@ -4231,7 +4213,7 @@
     left: 52px;
   }
   #HEADLINE98 > .headline {
-    font-family: "file";
+    font-family: "file.woff2";
     color: rgb(255, 255, 255);
     font-size: 28px;
     text-align: left;
@@ -4257,7 +4239,7 @@
   #HEADLINE103 > .headline {
     transform: rotate(-20deg);
     -webkit-transform: rotate(-20deg);
-    font-family: "file";
+    font-family: "file.woff2";
     background: rgba(188, 238, 102, 1);
     background: -webkit-linear-gradient(
       180deg,
@@ -4284,7 +4266,7 @@
     left: 52px;
   }
   #HEADLINE104 > .headline {
-    font-family: "file";
+    font-family: "file.woff2";
     color: rgb(255, 255, 255);
     font-size: 28px;
     text-align: left;
@@ -4304,7 +4286,7 @@
   #HEADLINE106 > .headline {
     transform: rotate(-20deg);
     -webkit-transform: rotate(-20deg);
-    font-family: "file";
+    font-family: "file.woff2";
     background: rgba(188, 238, 102, 1);
     background: -webkit-linear-gradient(
       180deg,
@@ -4331,7 +4313,7 @@
     left: 52px;
   }
   #HEADLINE107 > .headline {
-    font-family: "file";
+    font-family: "file.woff2";
     color: rgb(255, 255, 255);
     font-size: 28px;
     text-align: left;
@@ -4612,7 +4594,7 @@
     left: 0px;
   }
   #HEADLINE139 > .headline {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(255, 255, 255);
     font-size: 15px;
     text-align: left;
@@ -4641,7 +4623,7 @@
     left: 0px;
   }
   #HEADLINE143 > .headline {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(255, 255, 255);
     font-size: 15px;
     text-align: left;
@@ -4695,7 +4677,7 @@
     left: 0px;
   }
   #HEADLINE150 > .headline {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(255, 255, 255);
     font-size: 15px;
     text-align: left;
@@ -4743,7 +4725,7 @@
     left: 0px;
   }
   #HEADLINE155 > .headline {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(255, 255, 255);
     font-size: 15px;
     text-align: left;
@@ -4791,7 +4773,7 @@
     left: 0px;
   }
   #HEADLINE160 > .headline {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(255, 255, 255);
     font-size: 15px;
     text-align: left;
@@ -4839,7 +4821,7 @@
     left: 0px;
   }
   #HEADLINE165 > .headline {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(255, 255, 255);
     font-size: 15px;
     text-align: left;
@@ -4887,7 +4869,7 @@
     left: 0px;
   }
   #HEADLINE170 > .headline {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(255, 255, 255);
     font-size: 15px;
     text-align: left;
@@ -4935,7 +4917,7 @@
     left: 0px;
   }
   #HEADLINE175 > .headline {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(255, 255, 255);
     font-size: 15px;
     text-align: left;
@@ -4983,7 +4965,7 @@
     left: 0px;
   }
   #HEADLINE180 > .headline {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(255, 255, 255);
     font-size: 15px;
     text-align: left;
@@ -5065,7 +5047,7 @@
     left: 0px;
   }
   #HEADLINE187 > .headline {
-    font-family: "poppins-semibold"
+    font-family: "Poppins-SemiBold.ttf";
     color: rgb(188, 238, 102);
     font-size: 25px;
     text-align: center;
@@ -5077,7 +5059,7 @@
     left: 0px;
   }
   #HEADLINE188 > .headline {
-    font-family: "poppins-semibold"
+    font-family: "Poppins-SemiBold.ttf";
     color: rgb(255, 255, 255);
     font-size: 25px;
     text-align: center;
@@ -5089,7 +5071,7 @@
     left: 0px;
   }
   #HEADLINE189 > .headline {
-    font-family: "poppins-semibold"
+    font-family: "Poppins-SemiBold.ttf";
     color: rgb(255, 255, 255);
     font-size: 25px;
     text-align: center;
@@ -5101,7 +5083,7 @@
     left: 0px;
   }
   #HEADLINE190 > .headline {
-    font-family: "poppins-semibold"
+    font-family: "Poppins-SemiBold.ttf";
     color: rgb(255, 255, 255);
     font-size: 25px;
     text-align: center;
@@ -5153,7 +5135,7 @@
     left: 0px;
   }
   #HEADLINE195 > .headline {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(188, 238, 102);
     font-size: 18px;
     text-align: center;
@@ -5165,7 +5147,7 @@
     left: 0px;
   }
   #HEADLINE196 > .headline {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(255, 255, 255);
     font-size: 18px;
     text-align: center;
@@ -5177,7 +5159,7 @@
     left: 0px;
   }
   #HEADLINE197 > .headline {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(255, 255, 255);
     font-size: 18px;
     text-align: center;
@@ -5189,7 +5171,7 @@
     left: 0px;
   }
   #HEADLINE198 > .headline {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(255, 255, 255);
     font-size: 18px;
     text-align: center;
@@ -5499,7 +5481,7 @@
     left: 10px;
   }
   #PARAGRAPH259 > .paragraph {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(255, 255, 255);
     font-size: 13px;
     text-align: justify;
@@ -5524,7 +5506,7 @@
     left: 100.706px;
   }
   #PARAGRAPH262 > .paragraph {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(188, 238, 102);
     font-size: 15px;
     line-height: 1.6;
@@ -5535,7 +5517,7 @@
     left: 70px;
   }
   #PARAGRAPH263 > .paragraph {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(255, 255, 255);
     font-size: 15px;
     text-align: center;
@@ -5705,7 +5687,7 @@
   #HEADLINE281 > .headline {
     transform: rotate(-10deg);
     -webkit-transform: rotate(-10deg);
-    font-family: "file";
+    font-family: "file.woff2";
     background: rgba(188, 238, 102, 1);
     background: -webkit-linear-gradient(
       90deg,
@@ -5734,7 +5716,7 @@
   #HEADLINE284 > .headline {
     transform: rotate(-10deg);
     -webkit-transform: rotate(-10deg);
-    font-family: "file";
+    font-family: "file.woff2";
     color: rgb(255, 255, 255);
     font-size: 120px;
     text-align: center;
@@ -5778,7 +5760,7 @@
     left: 5.5px;
   }
   #HEADLINE288 > .headline {
-    font-family: "poppins-extralight";
+    font-family: "Poppins-ExtraLight.ttf";
     color: rgb(255, 255, 255);
     font-size: 20px;
     text-align: center;
